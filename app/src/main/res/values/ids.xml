@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar_principal" type="id" />
+    <item name="buscar_vista" type="id" />
+
+    <item name="action_search" type="id" />
+
+
+</resources>

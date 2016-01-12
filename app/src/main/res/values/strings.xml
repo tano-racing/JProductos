@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JProductos</string>
+    <string name="buscar">Buscar producto</string>
 </resources>
