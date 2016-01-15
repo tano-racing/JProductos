@@ -4,6 +4,14 @@
     <item name="buscar_vista" type="id" />
 
     <item name="action_search" type="id" />
+    <item name="appbar" type="id" />
+    <item name="tabs" type="id" />
+    <item name="viewpager" type="id" />
+
+    <item name="nav_home" type="id" />
+    <item name="nav_messages" type="id" />
+    <item name="nav_friends" type="id" />
+    <item name="nav_discussion" type="id" />
 
 
 </resources>
